@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://manudrivingschool.netlify.app/sitemap.xml
